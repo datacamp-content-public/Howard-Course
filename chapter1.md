@@ -1,8 +1,10 @@
 ---
 title: Template Chapter 1
-description: This is a template chapter.
----
+description: >-
+  This is a template chapter.
 
+
+---
 ## Ex 1.1
 
 ```yaml
@@ -10,14 +12,13 @@ type: NormalExercise
 lang: r
 xp: 100
 skills: 1
-key: 9e463d7239
+key: 26c9007dc9
 ```
 
-This is the assignment text. It should help provide students with the background information needed.
-The instructions that follow should be in bullet point form with clear guidance for what is expected.
+Welcome to Exploratory Data Analysis in R for Howard University Students! In this chapter we're going to cover some basic concepts about what R is, and get familiar with some basic programming concepts.
 
 `@instructions`
-- Instruction 1
+- Type 1 + 1 in the console (that square to the right), and press enter!
 - Instruction 2
 - Instruction 3
 - Instruction 4
@@ -26,13 +27,10 @@ The instructions that follow should be in bullet point form with clear guidance 
 - Here is the hint for this setup problem. It should get students 50% of the way to the correct answer.
 
 `@pre_exercise_code`
-
 ```{r}
 # Load datasets and packages here.
 ```
-
 `@sample_code`
-
 ```{r}
 # Your
 # sample
@@ -44,19 +42,18 @@ The instructions that follow should be in bullet point form with clear guidance 
 # with a max
 # of 16 lines.
 ```
-
 `@solution`
-
 ```{r}
-# Answer goes here
+1 + 1
 # Make sure to match the comments with your sample code
 # to help students see the differences from solution
 # to given.
 ```
-
 `@sct`
-
 ```{r}
 # Update this to something more informative.
-success_msg("Some praise! Then reinforce a learning objective from the exercise.")
+success_msg("Well done!! Then reinforce a learning objective from the exercise.")
 ```
+
+
+
