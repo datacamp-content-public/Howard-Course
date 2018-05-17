@@ -28,7 +28,7 @@ Welcome to Exploratory Data Analysis in R for Howard University Students! In thi
 
 `@pre_exercise_code`
 ```{r}
-# Load datasets and packages here.
+data("uspop")
 ```
 `@sample_code`
 ```{r}
@@ -45,7 +45,7 @@ Welcome to Exploratory Data Analysis in R for Howard University Students! In thi
 `@solution`
 ```{r}
 1 + 1
-# Make sure to match the comments with your sample code
+str(uspop)
 # to help students see the differences from solution
 # to given.
 ```
