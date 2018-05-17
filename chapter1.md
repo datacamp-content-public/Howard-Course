@@ -15,11 +15,11 @@ skills: 1
 key: 26c9007dc9
 ```
 
-Welcome to Exploratory Data Analysis in R for Howard University Students! In this chapter we're going to cover some basic concepts about what R is, and get familiar with some basic programming concepts.
+Welcome to Exploratory Data Analysis in R for Howard University Students! If you're here, you should have already completed at least 3 of the Intro to R Programming Datacamp excersizes, as well as the Introduction to the Tidyverse 1: Data Wrangling. If you haven't yet, please follow this link to try them out: https://www.datacamp.com/courses/tech:r
 
 `@instructions`
-- Type 1 + 1 in the console (that square to the right), and press enter!
-- Instruction 2
+- Today we're going to be working with _ dataset. 
+- Load the dataset using `read_csv()`
 - Instruction 3
 - Instruction 4
 
