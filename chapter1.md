@@ -1,7 +1,7 @@
 ---
-title: Template Chapter 1
+title: Module 1
 description: >-
-  This is a template chapter.
+  This is a use case for the Howard R Class blah blah
 
 
 ---
