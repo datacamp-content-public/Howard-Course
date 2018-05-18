@@ -4,4 +4,5 @@ description: This is a supplement to a course offered at the FRB for students at
 programming_language: r
 from: r-base-prod:30
 datasets:
+  student_loans_ts.csv: Student loans ts
   README.md: Readme
