@@ -28,13 +28,14 @@ Welcome to Exploratory Data Analysis in R for Howard University Students! If you
 
 `@pre_exercise_code`
 ```{r}
-data("uspop")
+x <- 1
+y <- 2
 ```
 `@sample_code`
 ```{r}
 # Your
-# sample
-# code
+x <- 1
+y <- 2
 # should
 # be
 # ideally
@@ -44,16 +45,16 @@ data("uspop")
 ```
 `@solution`
 ```{r}
-x <- 1 + 1
+z <- x + y
 # to help students see the differences from solution
 # to given.
 ```
 `@sct`
 ```{r}
 test_error()
-test_object("x",
-            undefined_msg = "Make sure to define `x`!",
-            incorrect_msg = "Have you correctly assigned 5 to `x`!")
+test_object("z",
+            undefined_msg = "Make sure to define `z`!",
+            incorrect_msg = "Have you correctly assigned 5 to `z`!")
 success_msg("Awesome! It's considered good style to write spaces either side of the assignment arrow.")
 ```
 
