@@ -45,7 +45,6 @@ data("uspop")
 `@solution`
 ```{r}
 1 + 1
-str(uspop)
 # to help students see the differences from solution
 # to given.
 ```
