@@ -1,4 +1,6 @@
 title: Course Title Here
 description: A description of the course.
 programming_language: r
-from: 'r-base-prod:30'
+from: r-base-prod:30
+datasets:
+  README.md: Readme
