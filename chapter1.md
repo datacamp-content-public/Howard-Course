@@ -44,14 +44,17 @@ data("uspop")
 ```
 `@solution`
 ```{r}
-1 + 1
+x <- 1 + 1
 # to help students see the differences from solution
 # to given.
 ```
 `@sct`
 ```{r}
-# Update this to something more informative.
-success_msg("Well done!! Then reinforce a learning objective from the exercise.")
+test_error()
+test_object("x",
+            undefined_msg = "Make sure to define `x`!",
+            incorrect_msg = "Have you correctly assigned 5 to `x`!")
+success_msg("Awesome! It's considered good style to write spaces either side of the assignment arrow.")
 ```
 
 
