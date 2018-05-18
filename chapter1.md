@@ -60,3 +60,31 @@ success_msg("Awesome! It's considered good style to write spaces either side of 
 
 
 
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: 100
+
+key: 2a0bc8f768
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+
+
+
+
+
+
+
